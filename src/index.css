@@ -327,5 +327,10 @@ font-size: 12px;
     .hero-action{
         flex-direction: column;
     }
+
+    .hero-action{
+        text-align: center;
+    }
+
   }
   
