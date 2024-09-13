@@ -14,20 +14,14 @@ function App() {
  
 
   return (
-    <div>
-     
-    
+    <div> 
    <Nav/> 
    <Home/>
   <About/>
   <Project/>
    <Contact/>
    <Footer/>
-   
-
- 
-  
-    </div>
+   </div>
   )
 }
 
