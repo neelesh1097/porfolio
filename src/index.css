@@ -311,6 +311,12 @@ font-size: 12px;
         .para{
             font-size: 15px;
         }
+
+        .content-about {
+            text-align: start;
+        }
+        
+
   }
  
   
