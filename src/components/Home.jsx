@@ -11,7 +11,7 @@ function Home() {
 <div className=' flex flex-col'>
  
            <h1 className='content' >
-          <span className='font font-bold'>I'm Neelesh Yadav</span> frontend ,<br />developer based in India.
+          <span className='font font-bold'>I'm Neelesh Yadav</span> full-stack ,<br />developer based in India.
         </h1>
         <p className='para text-slate-50 '> <span >As a fresher developer, I bring a strong foundation in software development, <br/></span>backed by academic knowledge and hands-on experience with modern technologies</p>
 
